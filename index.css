@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.Container {
+  background-color: #f1f5f8;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+  height: 100%;
+  width: 100%;
+  padding: 170px;
+  padding-bottom: 370px;
+}
+.heading {
+  color: #2d3a35;
+  font-family: 'Roboto';
+  align-items: center;
+  font-weight: bold;
+  font-size: 48px;
+}
+.para {
+  font-size: 27px;
+  margin-top: 24px;
+  max-width: 625px;
+  color: #2d3a35;
+  font-family: 'Roboto';
+  align-items: center;
+}
+
+.button {
+  align-items: center;
+  background-color: #007bff;
+  height: 30px;
+  width: 90px;
+  border-width: 0px;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #ffffff;
+}
+.count-color {
+  color: #c20a72;
+}
